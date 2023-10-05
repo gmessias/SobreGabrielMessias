@@ -1,1 +1,1 @@
-[https://gmessias.github.io/curriculo](https://gmessias.github.io/SobreGabrielMessias/)https://gmessias.github.io/SobreGabrielMessias/
+[Website pessoal: Gabriel Messias](https://gmessias.github.io/SobreGabrielMessias/)
