@@ -1,1 +1,9 @@
-[Website pessoal: Gabriel Messias - https://gmessias.github.io/SobreGabrielMessias/](https://gmessias.github.io/SobreGabrielMessias/)
+# Sobre mim
+
+## Resumo sobre mim, Gabriel Messias, que utilizo apenas HTML, CSS e Javascript bem simples e direto ao ponto.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[Website pessoal: Gabriel Messias](https://gmessias.github.io/SobreGabrielMessias/)
